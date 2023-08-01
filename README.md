@@ -29,7 +29,7 @@
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/MATLAB-D4F4FA?style=for-the-badge"/><br><br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jang010505&layout=compact&theme=swift&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyeon1&layout=compact&theme=swift&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) 
  <br>
  
  #### 😑 WEB<br>
