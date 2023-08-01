@@ -39,7 +39,7 @@
  <br>
  
  #### 🙄 Git?<br>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jang010505&show_icons=true&theme=swift&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaeyeon1&show_icons=true&theme=swift&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) 
  <br>
  
  #### 🤗 PS?<br>
